@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/banner.svg" alt="setpoint-drift-checker" width="100%"></p>
+
 # setpoint-drift-checker
 
 A command-line tool that reads a building trend CSV and flags setpoint drift: an offset, steady creep, a loop that does not reach its setpoint, and setpoint chatter.
